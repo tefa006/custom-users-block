@@ -1,0 +1,17 @@
+{
+    "name": "@rgbcode/user-profile-block",
+    "version": "1",
+    "author": "Mostafa Magdy",
+    "dependencies": {},
+    "devDependencies": {
+        "@wordpress/browserslist-config": "2.7.0",
+        "@wordpress/scripts": "^12.1.1",
+        "cssnano": "^4.1.10",
+        "postcss-import": "^12.0.1",
+        "postcss-import-resolver": "^2.0.0",
+        "postcss-omit-import-tilde": "^1.0.1",
+        "postcss-preset-env": "^6.7.0",
+        "postcss-pxtorem": "^4.0.1",
+        "prettier": "npm:wp-prettier@^2.0.4"
+    }
+}
